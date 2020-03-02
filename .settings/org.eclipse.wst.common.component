@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="vehicle service and fiel station management system">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="vehicle_service_and_fiel_station_management_system"/>
+        <property name="java-output-path" value="/vehicle service and fiel station management system/build/classes"/>
+    </wb-module>
+</project-modules>
